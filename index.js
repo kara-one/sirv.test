@@ -12,6 +12,7 @@ const options = {
   },
 };
 
+/** CONSTANTS */
 const clientId = 'Y8RAps9BOIM1tHbD08ckui9jP3S';
 const clientSecret =
   'ampkbdac0pq/2YOArq3RIf5F96k+AYaHrgXXKMXhirNb1Pc9WNnCKJ0ZNOG+GTYyT0zNX6LTdyk/ZgjtW0LUBA==';
