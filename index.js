@@ -2,6 +2,7 @@ const http = require('https');
 var request = require('request');
 var fs = require('fs');
 
+/** OPTIONS */
 const options = {
   method: 'POST',
   hostname: 'api.sirv.com',
